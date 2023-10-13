@@ -49,6 +49,8 @@
     <Compile Include="193462.cs" />
     <Compile Include="193464.cs" />
     <Compile Include="195886.cs" />
+    <Compile Include="196930.cs" />
+    <Compile Include="196929.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
